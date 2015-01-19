@@ -6,5 +6,5 @@ pod 'AWSiOSSDKv2'
 pod 'AWSCognitoSync'
 
 #target :<#TargetName#>Tests, :exclusive => true do
-  # pod 'Kiwi'
+# pod 'Kiwi'
 #end
