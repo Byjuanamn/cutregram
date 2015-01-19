@@ -1,0 +1,10 @@
+platform :"ios", "8.0"
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+pod 'AWSiOSSDKv2'
+pod 'AWSCognitoSync'
+
+#target :<#TargetName#>Tests, :exclusive => true do
+  # pod 'Kiwi'
+#end
